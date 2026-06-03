@@ -8,4 +8,4 @@ Collection of LLM benchmarks.
 
 **Оригінальні бенчмарки**: 
 
-![Benchmark 1](main\images\gpt54_01.png)
+![Benchmark 1](images\gpt54_01.png)
