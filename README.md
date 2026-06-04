@@ -26,7 +26,6 @@ Collection of LLM benchmarks.
 
 [Evals без міркування](images/gpt-54/gpt-54_09.png) 
 
-
 ### GPT-5.3-Codex
 **Анонс:** https://openai.com/uk-UA/index/introducing-gpt-5-3-codex/
 
