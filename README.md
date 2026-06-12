@@ -1,6 +1,15 @@
 # llm-benchmarks
 Collection of LLM benchmarks.
 
+
+## Google 
+
+### Gemini 3.1 Pro 
+**Анонс:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/ 
+
+[Бенчмарки](images/gemini-31-pro/gemini-31-pro_01.png) 
+
+
 ## OpenAI
 
 ### GPT-5.4
