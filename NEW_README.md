@@ -12,7 +12,7 @@ Collection of LLM benchmarks.
 
 ## OpenAI
 
-- [GPT-5.4](openai/gpt-5.4.md)
+- [GPT-5.4](Benchmarks/openai/gpt-5.4.md)
 
 
 ### GPT-5.3-Codex
