@@ -44,20 +44,20 @@
 
 **Оригінали бенчмарків з анонсу по категоріям:** 
 
-![Професійний](images/gpt-54/gpt-54_01.png)
+![Професійний](Benchmarks/images/gpt-54/gpt-54_01.png)
 
-![Програмування](images/gpt-54/gpt-54_02.png) 
+![Програмування](Benchmarks/images/gpt-54/gpt-54_02.png) 
 
-![Використання комп'ютера та візуал](images/gpt-54/gpt-54_03.png) 
+![Використання комп'ютера та візуал](Benchmarks/images/gpt-54/gpt-54_03.png) 
 
-![Використання інструментів](images/gpt-54/gpt-54_04.png) 
+![Використання інструментів](Benchmarks/images/gpt-54/gpt-54_04.png) 
 
-![Академічність](images/gpt-54/gpt-54_05.png) 
+![Академічність](Benchmarks/images/gpt-54/gpt-54_05.png) 
 
-![Розширений контекст 1](images/gpt-54/gpt-54_06.png) 
+![Розширений контекст 1](Benchmarks/images/gpt-54/gpt-54_06.png) 
 
-![Розширений контекст 2](images/gpt-54/gpt-54_07.png) 
+![Розширений контекст 2](Benchmarks/images/gpt-54/gpt-54_07.png) 
 
-![Абстрактне мислення](images/gpt-54/gpt-54_08.png) 
+![Абстрактне мислення](Benchmarks/images/gpt-54/gpt-54_08.png) 
 
-![Evals без міркування](images/gpt-54/gpt-54_09.png) 
+![Evals без міркування](Benchmarks/images/gpt-54/gpt-54_09.png) 
