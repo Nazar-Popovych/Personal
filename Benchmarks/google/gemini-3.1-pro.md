@@ -27,4 +27,5 @@
 | MRCR v2 8-needle 1M (поточковий показник) | 26.3 | 26.3 | не підтримується | не підтримується | не підтримується | -- |
 
 **Оригінал бенчмарків**
-![Оригінал](/Benchmarks/images/gemini-31/gemini-31_01.png)
+
+![Оригінал](/Benchmarks/images/gemini-31-pro/gemini-31-pro_01.png)
