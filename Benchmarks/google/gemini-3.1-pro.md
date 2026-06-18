@@ -1,4 +1,6 @@
 # Gemini 3.1 Pro
+**Порівняння Gemini 3.1 Pro. Усі результати отримано із зусиллям міркування на найвищому доступному рівні (high - для Gemini 3.1 Pro і Gemini 3 Pro, max - для Sonnet 4.6 і Opus 4.6, xhigh - для GPT-5.2 і GPT-5.3-Codex).** 
+
 **Анонс:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/ 
 
 | Бенчмарк | Gemini 3.1 Pro | Gemini 3 Pro | Sonnet 4.6 | Opus 4.6 | GPT-5.2 | GPT-5.3-Codex |
