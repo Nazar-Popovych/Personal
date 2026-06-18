@@ -1,7 +1,8 @@
 # GPT-5.4
 **Анонс:** https://openai.com/uk-UA/index/introducing-gpt-5-4/ 
 
-**Порівняння GPT-5.4. Усі результати отримано із зусиллям міркування на рівні xhigh (за винятком випадків, де зазначено інше). Джерело: https://openai.com/uk-UA/index/introducing-gpt-5-4/**
+**Порівняння GPT-5.4. Усі результати отримано із зусиллям міркування на рівні xhigh (за винятком випадків, де зазначено інше). 
+Джерело: https://openai.com/uk-UA/index/introducing-gpt-5-4/**
 
 Бенчмарк | GPT-5.4 | GPT-5.4 Pro | GPT-5.3-Codex | GPT-5.2 | GPT-5.2 Pro | GPT-4.1 |
 
