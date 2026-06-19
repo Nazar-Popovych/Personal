@@ -1,0 +1,24 @@
+# Claude Sonnet 4.5
+
+**Анонс:** https://www.anthropic.com/news/claude-sonnet-4-5
+
+**Порівняння Claude Sonnet 4.5.**
+
+| Бенчмарк | Sonnet 4.5 | Opus 4.1 | Sonnet 4 | GPT-5 | Gemini 2.5 Pro | 
+| -------- | ---------- | -------- | -------- | ----- | -------------- |
+| SWE-bench Verified | 77.2 | 74.5 | 72.7 | 72.8 | 67.2 | 
+| SWE-bench Verified (паралельні обчислення під час тесту для Sonnet та Opus; GPT-5-Codex для GPT-5) | 82.0 | 79.4 | 80.2 | 74.5 | -- | 
+| Terminal-Bench | 50.0 | 46.5 | 36.4 | 43.8 | 25.3 | 
+| Tau2-bench (Retail) | 86.2 | 86.8 | 83.8 | 81.1 | -- | 
+| Tau2-bench (Airline) | 70.0 | 63.0 | 63.0 | 62.6 | -- | 
+| Tau2-bench (Telecom) | 98.0 | 71.5 | 49.6 | 96.7 | -- | 
+| OSWorld | 61.4 | 44.4 | 42.2 | -- | -- | 
+| AIME 2025 | 100 (python) <br> 87.0 (без інструментів) | 78.0 | 70.5 | 99.6 (python) <br> 94.6 (без інструментів) | 88.0 |
+| GPQA Diamond | 83.4% | 81.0% | 76.1% | 85.7% | 86.4% | 
+| MMMLU | 89.1% | 89.5% | 86.5% | 89.4% | -- | 
+| MMMU (валідація) | 77.8% | 77.1% | 74.4% | 84.2% | 82.0% | 
+| Finance Agent | 55.3% | 50.9% | 44.5% | 46.9% | 29.4% |
+ 
+ **Оригінал бенчмарків** 
+
+ ![Оригінал бенчмарків](/Benchmarks/images/claude-sonnet-45/claude-sonnet-45_01.png)
