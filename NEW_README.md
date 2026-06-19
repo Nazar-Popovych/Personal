@@ -14,6 +14,5 @@ Collection of LLM benchmarks.
 
 
 ### GPT-5.3-Codex
-**Анонс:** https://openai.com/uk-UA/index/introducing-gpt-5-3-codex/
 
-[Бенчмарки](images/gpt-53-codex/gpt-53-codex_01.png)
+- [GPT-5.3-Codex](Benchmarks/openai/gpt-5.3-codex.md)
